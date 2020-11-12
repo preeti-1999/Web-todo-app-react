@@ -1,5 +1,7 @@
 body {
+  background: url("https://i.pinimg.com/originals/6c/d0/df/6cd0df87097ba222f08fbc20e3d1bc33.png") no-repeat center center fixed; 
   margin: 0;
+  background-color:black;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
